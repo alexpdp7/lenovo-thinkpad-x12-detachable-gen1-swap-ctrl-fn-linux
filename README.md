@@ -1,3 +1,5 @@
+ARCHIVED: I'm currently using Windows.
+
 The keyboard of the Lenovo ThinkPad X12 Detachable gen1 is a USB device.
 Like other Lenovo keyboards, the ctrl and fn keys are in the reverse layout than most "Windows" laptops.
 ThinkPads traditionally have a BIOS option to switch them to the more common layout.
