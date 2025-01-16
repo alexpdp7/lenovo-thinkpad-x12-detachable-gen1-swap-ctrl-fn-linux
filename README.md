@@ -1,3 +1,7 @@
+UPDATE: There's been some activity in the kernel:
+
+https://git.kernel.org/pub/scm/linux/kernel/git/hid/hid.git/log/?h=for-6.14/lenovo 
+
 ARCHIVED: I'm currently using Windows.
 
 The keyboard of the Lenovo ThinkPad X12 Detachable gen1 is a USB device.
